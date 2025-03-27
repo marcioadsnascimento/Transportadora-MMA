@@ -19,10 +19,7 @@
                 Atendemos São Paulo capital, Litoral e Interior de São Paulo <h3>
                     
                             <img src="imagem/cama.png" />"
-                            <div>
-                                <a href="Transportes M&MA.html">Home</a>
-                                <a href="Contactos.html"> Contatos</a>
-                            </div>
+                            
 
 </body>
 </html>
