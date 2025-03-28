@@ -13,11 +13,11 @@
 </header>
         <h1>Transportadora M&MA</h1>   
 
-        <nav>
+        <div>
             <a href="index.html">Home</a>
             <a href="Foto.index.html">Conhecendo o nosso trabalho</a>
             <a href="Contatos.html">Contatos</a>
-        </nav>
+        </div>
 
         <div>
             <img src="Cama_king1.jpg" alt="imagem1" />
