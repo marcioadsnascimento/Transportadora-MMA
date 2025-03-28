@@ -71,3 +71,30 @@
     </div>
 </body>
 </html>
+
+*{
+margin: 0;
+padding: 0;
+
+}
+body {
+font-family: Arial, Helvetica, Sans - Serif;
+color: withe;
+
+}
+text-aling: center;
+.margin-top 40;{
+margin-top: 40px;
+
+}
+.Container-cabecalho{
+text-align: center;
+padding: 20px;
+background-color: #04233f;
+
+}
+.Container-cabecalho{
+font-weight: 600;
+font-size: 2em;
+color: #1190f;
+}
