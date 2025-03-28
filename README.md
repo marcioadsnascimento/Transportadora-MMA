@@ -9,6 +9,9 @@
     </head>
     <body>
         <!--cabeçario-->
+        <header>
+    <img src="Cama_king1.jpg" alt="cabecario" title="Portifolio" />
+</header>
         <h1>Transportadora M&MA</h1>   
 
         <nav>
