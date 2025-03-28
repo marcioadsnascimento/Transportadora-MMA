@@ -1,39 +1,47 @@
-<!DOCTYPE html>
+<!Doctype html>
 
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta charset="utf-8" />
-    <title>Transportadora M&MA</title>
-</head>
-<body>
-    <div>
-        <a href="Home.html">Home</a>
-        <a href="Contato.html"> Contato</a>
-        <a href="Quem somos.html"> Sobre mim</a>
-    </div>
+<html>
 
+    <head>
+        <title>Transportadora M&ma</title>
+    </head>
+    <body>
+        <h1>Transportadora M&MA</h1>   
 
-    <h3>
-       Especialista em trasnportes rápidos e com segurança<h3>
-            <h3>
-                Atendemos São Paulo capital, Litoral e Interior de São Paulo <h3>
-                    
-                            <img src="imagem/cama.png" />"
-                            <div>
-                                <a href="Transportes M&MA.html">Home</a>
-                                <a href="Contactos.html"> Contatos</a>
-                            </div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="Foto.index.html">Conhecendo o nosso trabalho</a>
+            <a href="Contatos.html">Contatos</a>
+        </nav>
 
-</body>
+        <div>
+            <img src="Cama_king1.jpg" alt="imagem1" />
+        </div>
+        <h1>Transportadora M&MA Fretes agéis e rápido</h1>
+        <hr />
+        <h3>Empresa especializada em transporte de diversos, seja eletrodoméstico pequenas mudanças e etc..</h3>
+        <img src="transporte_MMA.jpg"> alt="transporte_MMA.jpg" />
+        <p>Faça o seu orçamento sem compromisso é so clicar no link que você será direcionado a falar com nossos especioalistas.</p>
+        <ul>
+            <li>
+                <a href=" https://wa.me/message/MNASC46BYAYUP1" target="_blanck"> Whatsapp</a>
+            </li>
+        </ul>
+        </body>
 </html>
 
+<!DOCTYPE html>
 <html
       <title> Quem somos</title>
 <body> 
-<h3>São Paulo</h3>
-<p>Transporte M&MA</p>
+<h3>transportadora M&MA</h3>
+<p>Transporte com seriedade e segurança em primeiro lugar</p>
 
-<li>Transportamos movéis, eletrodoméstico, Peças para carro, Resgate de Motos</li>
+<li>Transportamos movéis, eletrodoméstico, Peças para carro, Resgate de Motos em Geral</li>
+
+<li>Fazemos pequenas mudanças<li/>
+
+<li> Atendemos São Paulo Capital. Litoral e Interior de São Paulo</li>
 
 <li>E-mail de contato: marcio.analise.e.desenvolvimento@gmail.com</li>
 
@@ -45,4 +53,21 @@
 
 </body>
 
+</html>
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Conhecendo o nosso trabalho</title>
+</head>
+<body>
+    <h1>Conhecendo o nosso trabalho</h1>
+    <div>
+        <img src="Cama_king1.jpg" alt="imagem1" />
+        <img src="moto_resgate2.jpg" alt="imagem2" />
+
+    </div>
+</body>
 </html>
