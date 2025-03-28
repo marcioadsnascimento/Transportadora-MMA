@@ -4,6 +4,8 @@
 
     <head>
         <title>Transportadora M&ma</title>
+         <!--Estlilos da pagina-->
+ <link rel="stylesheet" href="css" estilo.css />
     </head>
     <body>
         <h1>Transportadora M&MA</h1>   
