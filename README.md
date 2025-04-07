@@ -1,83 +1,65 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transportadora M&MA</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-
-        header {
-            background-color: #004aad;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #0071c5;
-            padding: 10px;
-        }
-
-            nav a {
-                color: white;
-                text-decoration: none;
-                margin: 0 15px;
-                font-size: 18px;
-            }
-
-        main {
-            padding: 20px;
-            text-align: center;
-        }
-
-        footer {
-            background-color: #004aad;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: absolute;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Transportadora M&MA Fretes agéis e rápido</h1>
-        <p>Empresa especializada em transporte de diversos, seja eletrodoméstico pequenas mudanças e etc..</p>
-    </header>
-    <nav>
-        <a href="#sobre.html">Sobre Nós</a>
-        <a href="#servicos.html">Serviços</a>
-        <a href="#contato.html">Contato</a>
-    </nav>
-    <main>
-        <section id="sobre.html">
-            <h2>Sobre Nós</h2>
-            <p>Transporte com seriedade e pontualidade, empresa séria que visa o trasnporte de movéis, resgate de motos e diversos.</p>
-        </section>
-        <section id="servicos.html">
-            <h2>Serviços</h2>
-            <p>Consulte o seu orçamento sem compromisso.</p>
-            <p>Atendemos São Paulo capital, litoral e interior SP</p>
-        </section>
-        <section id="contato.html">
-            <h2>Contato</h2>
-            <p>Telefone para contato: (11)93901-8488</p>
-            <p>https://wa.me/message/MNASC46BYAYUP1 target="_black> Perfil Whatsapp"</p>
-         
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 Minha Empresa. Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
+<!DOCTYPE>
+ <html>
+ 
+     <head>
+         <title>Transportadora M&ma</title>
+          <!--Estlilos da pagina-->
+  <link rel="stylesheet" href="css" estilo.css />
+     </head>
+     <body>
+         <!--cabeçario-->
+         <header>
+     <img src="Cama_king1.jpg" alt="cabecario" title="Portifolio" />
+ </header>
+         <h1>Transportadora M&MA</h1>   
+ 
+         <div>
+             <a href="index.html">Home</a>
+             <a href="Foto.index.html">Conhecendo o nosso trabalho</a>
+             <a href="Contatos.html">Contatos</a>
+         </div>
+ 
+         <div>
+             <img src="Cama_king1.jpg" alt="imagem1" />
+         </div>
+         <h1>Transportadora M&MA Fretes agéis e rápido</h1>
+         <hr />
+         <h3>Empresa especializada em transporte de diversos, seja eletrodoméstico pequenas mudanças e etc..</h3>
+         <img src="transporte_MMA.jpg"> alt="transporte_MMA.jpg" />
+         <p>Faça o seu orçamento sem compromisso é so clicar no link que você será direcionado a falar com nossos especioalistas.</p>
+         <ul>
+             <li>
+                 <a href=" https://wa.me/message/MNASC46BYAYUP1" target="_blanck"> Whatsapp</a>
+             </li>
+         </ul>
+         </body>
+ </html>
+ 
+ <html
+       <title> Quem somos</title>
+ <body> 
+ <h3>transportadora M&MA</h3>
+ <p>Transporte com seriedade e segurança em primeiro lugar</p>
+ 
+ <li>Transportamos movéis, eletrodoméstico, Peças para carro, Resgate de Motos em Geral</li>
+ 
+ <li>Fazemos pequenas mudanças<li/>
+ 
+ <li> Atendemos São Paulo Capital. Litoral e Interior de São Paulo</li>
+ 
+ <li>E-mail de contato: marcio.analise.e.desenvolvimento@gmail.com</li>
+ 
+ <li>Telefone para contato Whatsapp DDD:11 97888-3636 11 93901-8488</li> 
+ 
+ <li>
+     <a href="https://wa.me/message/MNASC46BYAYUP1" target="_black">Perfil Whatsapp</a>
+ </li>
+ 
+ </body>
+ 
+ </html>
+ 
+ 
+ <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <!DOCTYPE html>
+ <html lang="pt-BR">
